@@ -19,7 +19,9 @@ For the compilation,  the option "-march=skylake-avx512" is needed. Please refer
 Please use one of the following formats for referencing this work in any published papers, websites, etc.: 
 * plain format for non-Latex use:   
 Fan Ni, Xing Lin, and Song Jiang. 2019. SS-CDC: a two-stage parallel content-defined chunking for deduplicating backup storage. In Proceedings of the 12th ACM International Conference on Systems and Storage (SYSTOR '19). ACM, New York, NY, USA, 86-96. DOI: https://doi.org/10.1145/3319647.3325834  
- 
+
+https://ranger.uta.edu/~sjiang/pubs/papers/ni19-ss-cdc.pdf
+
 * bibtex format for latex use:   
 @inproceedings{NLJ19,   
 author = {Ni, Fan and Lin, Xing and Jiang, Song},   
@@ -44,5 +46,3 @@ NetApp does not provide support or troubleshooting for the users of this reposit
 
 **MAINTENANCE AND CONTRIBUTIONS:**   
 NetApp does not provide maintenance for this repository, and contributions to the repository’s contents are not being accepted.  
-
-https://ranger.uta.edu/~sjiang/pubs/papers/ni19-ss-cdc.pdf
