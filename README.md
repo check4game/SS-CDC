@@ -44,3 +44,5 @@ NetApp does not provide support or troubleshooting for the users of this reposit
 
 **MAINTENANCE AND CONTRIBUTIONS:**   
 NetApp does not provide maintenance for this repository, and contributions to the repository’s contents are not being accepted.  
+
+https://ranger.uta.edu/~sjiang/pubs/papers/ni19-ss-cdc.pdf
